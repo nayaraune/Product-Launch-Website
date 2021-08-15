@@ -2,7 +2,7 @@
 
 Codando uma interface utilizando HTML e CSS(Less).
 
-Código feito pelo Codepen e a Repl.it: https://product-concept.nayaraune.repl.co/
+Código feito pelo Repl.it: https://product-concept.nayaraune.repl.co/
 
 
 > **Interface codada**
